@@ -1,0 +1,17 @@
+# data (shared separately)
+*.mat
+
+# run outputs
+results_*/
+best_model_dir_*/
+*.png
+*.npz
+*.zip
+a_k_train_*.csv
+*.out
+*.err
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

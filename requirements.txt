@@ -1,0 +1,10 @@
+# Python 3.10. MATLAB Engine for Python is installed separately (see README):
+#   pip install "matlabengine==25.2.*"   # for MATLAB R2025b
+numpy
+pandas
+matplotlib
+openpyxl
+pillow
+gymnasium
+torch
+stable-baselines3
