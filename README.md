@@ -215,7 +215,7 @@ Python, then follow the same steps (without `module load`).
 * `n_unique` — number of maps (1000)
 
 Put the file (or a symbolic link to it) in the directory you run from.
-Download link: **[to be added]**
+Download link: https://github.com/seungyeonoh813/subsurface_flow/releases/download/data-v1/k128x128_unique.mat 
 
 ## How to run
 
